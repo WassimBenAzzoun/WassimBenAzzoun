@@ -1,6 +1,6 @@
 <div align="center">
 
-![Wassim — Fullstack developer and cloud engineering student](assets/header.svg)
+![Wassim — Full-Stack Developer & Cloud Engineering Student](assets/header.svg)
 
 [![GitHub](https://img.shields.io/badge/WassimBenAzzoun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WassimBenAzzoun)
 [![Explore my repositories](https://img.shields.io/badge/Explore_my_repos-0d1117?style=for-the-badge&logo=git&logoColor=67e8f9)](https://github.com/WassimBenAzzoun?tab=repositories)
