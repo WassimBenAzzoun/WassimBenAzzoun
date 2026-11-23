@@ -1,6 +1,6 @@
 <div align="center">
 
-![Wassim — Full-Stack Developer & Cloud Engineering Student](assets/header.svg)
+![Wassim — Full-Stack Developer & Cloud Engineering Student](assets/header-cloud-student.svg)
 
 [![GitHub](https://img.shields.io/badge/WassimBenAzzoun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WassimBenAzzoun)
 [![Explore my repositories](https://img.shields.io/badge/Explore_my_repos-0d1117?style=for-the-badge&logo=git&logoColor=67e8f9)](https://github.com/WassimBenAzzoun?tab=repositories)
@@ -9,7 +9,7 @@
 
 ## About
 
-I'm **Wassim**, a full-stack developer from **Tunisia**.
+I'm **Wassim**, a **Full-Stack Developer & Cloud Engineering Student** from **Tunisia**.
 
 I work with **TypeScript, React, NestJS, and PostgreSQL** on web apps, mobile apps, and Discord bots.
 
