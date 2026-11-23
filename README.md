@@ -11,8 +11,6 @@
 
 I'm **Wassim**, a **Full-Stack Developer & Cloud Engineering Student** from **Tunisia**.
 
-I work with **TypeScript, React, NestJS, and PostgreSQL** on web apps, mobile apps, and Discord bots.
-
 ## Tech stack
 
 **Languages**
