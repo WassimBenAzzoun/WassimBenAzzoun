@@ -23,6 +23,15 @@ I work with **TypeScript, React, NestJS, and PostgreSQL** on web apps, mobile ap
 
 [![React, NestJS, Node.js, PostgreSQL, Docker, Git, GitHub](https://skillicons.dev/icons?i=react,nestjs,nodejs,postgres,docker,git,github&theme=dark)](https://skillicons.dev)
 
+**Cloud & hosting**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+
 ## Projects
 
 | Project | What it does | Focus |
